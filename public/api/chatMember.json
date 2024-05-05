@@ -1,0 +1,64 @@
+[
+    
+    {
+        "id": 0,
+        "name": "Yo",
+        "thumb": "customChat/avatar.png",
+        "status": "8",
+        "mesg":"Typing................",
+        "lastSeenDate": "30/11/19",
+        "onlineStatus": "online",
+        "typing": true
+    },
+    {
+        "id": 1,
+        "name": "Coru",
+        "thumb": "contact/1.jpg",
+        "status": "",
+        "mesg":"",
+        "lastSeenDate": "22/10/19",
+        "onlineStatus": "online",
+        "typing": false
+        
+    },
+    {
+        "id": 2,
+        "name": "Brasil",
+        "thumb": "contact/3.jpg",
+        "status": "",
+        "mesg":"",
+        "lastSeenDate": "15/06/19",
+        "onlineStatus": "online",
+        "typing": false
+    },
+    {
+        "id": 3,
+        "name": "Médico",
+        "thumb": "contact/4.jpg",
+        "status": "",
+        "mesg":"",
+        "lastSeenDate": "04/06/19",
+        "onlineStatus": "online",
+        "typing": false
+    },
+    {
+        "id": 4,
+        "name": "General",
+        "thumb": "contact/2.jpg",
+        "status": "",
+        "mesg":"",
+        "lastSeenDate": "04/06/19",
+        "onlineStatus": "online",
+        "typing": false
+    },
+    {
+        "id": 5,
+        "name": "Pabelo Mukrani",
+        "thumb": "contact/1.jpg",
+        "status": "",
+        "mesg":"Hi, i am josephin. How are you.. ! There are many variations of passages.",
+        "lastSeenDate": "04/06/19",
+        "onlineStatus": "online",
+        "typing": false
+    }
+]
