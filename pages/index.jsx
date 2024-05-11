@@ -9,7 +9,7 @@ export default function HomePage() {
             <img src="https://www.siged.sep.gob.mx/SIGED/images/logo_sep.png" class="w-100" />
         </div>
         <div class="col-md-6 d-md-block d-none  app-titlte">
-            <h1 class="app-titlte">Asignación Aspirantes a Secundaria</h1>
+            <h1 class="app-titlte">Asignación Aspirantes a Secundaria4</h1>
             <h1>en la ciudad de México 2024</h1>
         </div>
         <div class="col-md-3 col-6">
